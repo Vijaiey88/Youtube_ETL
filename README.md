@@ -2,10 +2,10 @@
 
 This is a Streamlit app that allows users to enter a YouTube channel ID, retrieve channel details using the YouTube API, store the data in a MongoDB data lake, migrate it to a SQL data warehouse, and query the warehouse to display the data in the app.
 
-Usage
-Run the app (In terminal)
-streamlit run youtube_etl_dashboard.py
-Access the app in your web browser at http://localhost:8501.
+`Usage`
+`Run the app (In terminal)`
+`streamlit run youtube_etl_dashboard.py`
+`Access the app in your web browser at http://localhost:8501.`
 
 Enter a YouTube channel ID in the input field and click the "Retrieve Channel Details" button.
 
