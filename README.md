@@ -4,7 +4,7 @@ This is a Streamlit app that allows users to enter a YouTube channel ID, retriev
 
 Run the app (In terminal)
 `streamlit run youtube_etl_dashboard.py`
-Access the app in your web browser at `http://localhost:8501`.
+Access the app in your web browser at http://localhost:8501.
 
 Enter a YouTube channel ID in the input field and click the "Retrieve Channel Details" button.
 
