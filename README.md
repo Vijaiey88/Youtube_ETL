@@ -1,4 +1,4 @@
-# YouTube ETL and Visualize
+# YouTube ETL and Analysis
 
 This is a Streamlit app that allows users to enter a YouTube channel ID, retrieve channel details using the YouTube API, store the data in a MongoDB data lake, migrate it to a SQL data warehouse, and query the warehouse to display the data in the app.
 
