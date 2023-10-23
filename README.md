@@ -1,15 +1,65 @@
-# YouTube ETL and Analysis
 
-This is a Streamlit app that allows users to enter a YouTube channel ID, retrieve channel details using the YouTube API, store the data in a MongoDB data lake, migrate it to a SQL data warehouse, and query the warehouse to display the data in the app.
+# YouTube Extract Transform Load
+This is a app that allows users to enter a YouTube channel ID, retrieve channel details using the YouTube API, store the data in a MongoDB , migrate it to a mysql and query mysql to display the data in the app for analysis.
 
-Run the app (In terminal)
-`streamlit run youtube_etl_dashboard.py`
-Access the app in your web browser at http://localhost:8501.
+## 🛠 Skills
+Python // Pandas // Numpy // googleapiclient // sqlalchemy // pymongo // Streamlit  
 
-Enter a YouTube channel ID in the input field and click the "Retrieve Channel Details" button.
 
-The app will retrieve the channel details from the YouTube API, store the data in MongoDB, migrate it to the SQL data warehouse, and display the retrieved data in the app.
+## Run Locally
 
-You can use the provided filters or search functionality in the app to query the SQL data warehouse and view specific channel data.
+Clone the project
 
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
+```bash
+https://github.com/Vijaiey88/Youtube_ETL
+```
+
+Go to the project directory
+
+```bash
+cd your_project_directory
+```
+
+Create virtual environment (Vscode)
+
+```bash
+conda create -p venv python==3.11.2
+```
+Activate virtual environment (Vscode)
+
+```bash
+conda activate venv/ 
+```
+
+Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run streamlit server locally
+
+```bash
+streamlit run app.py
+```
+
+Please make sure you have Conda and Git installed and configured on your system. Also, ensure that you have navigated to the correct project directory before running these commands.
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at vijaiey88@gmail.com
+
+
+## Documentation
+
+[Streamlit](https://docs.streamlit.io/library/api-reference)
+
+[YouTube Data API](https://developers.google.com/youtube/v3/getting-started)
+
+[Google API](https://console.cloud.google.com/apis/library?_ga=2.208225745.274344734.1698029396-1724180012.1698029334)
+
