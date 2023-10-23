@@ -3,5 +3,6 @@ streamlit
 google-api-python-client
 pymongo
 sqlalchemy
+pymysql
 datetime
 regex
