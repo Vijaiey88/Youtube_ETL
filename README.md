@@ -2,11 +2,11 @@
 # YouTube Data Extract Transform Load and Analysis
 This is a app that allows users to enter a YouTube channel ID, retrieve channel details using the YouTube API, store the data in a MongoDB , migrate it to a mysql and query mysql to display the data in the app for analysis.
 
-## 🛠 Skills
-Python // Pandas // Numpy // googleapiclient // sqlalchemy // pymongo // Streamlit  
+## Skills
+Python // Pandas // Numpy // Google API // Mysql // Mongodb // Streamlit  
 
 
-## Run Locally
+## Usage
 
 Clone the project
 
