@@ -296,7 +296,7 @@ def transform_mongodb_to_mysql(channel_name):
         return None
 
 st. set_page_config(page_title='Phonepe Data Visualization Dashboard', layout="wide")
-st.title(':red[\u25B6 YouTube Data Analysis]')
+st.title(':red[\u25B6 YouTube Extract Transform Load and Data Analysis]')
 tabs = ["Home", "ETL", "Data Analysis Insights"]
 selected_tab = st.sidebar.radio("", tabs, key="tab_selection")
 
