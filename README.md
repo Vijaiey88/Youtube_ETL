@@ -47,12 +47,7 @@ Please make sure you have Conda and Git installed and configured on your system.
 
 ## Demo
 
-
-
-https://github.com/Vijaiey88/Youtube_ETL/assets/125460160/ff588363-8c68-418d-9b00-cb8b1883cbc9
-
-
-
+https://github.com/Vijaiey88/Youtube_ETL/assets/125460160/b28699a2-05f4-49f9-9634-f2bdc854b9fb
 
 ## Feedback
 
