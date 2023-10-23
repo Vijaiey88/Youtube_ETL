@@ -56,6 +56,7 @@ If you have any feedback, please reach out to me at vijaiey88@gmail.com
 
 
 ## Documentation
+[Python coding standards]([https://docs.streamlit.io/library/api-reference](https://www.python.org/dev/peps/pep-0008/))
 
 [Streamlit](https://docs.streamlit.io/library/api-reference)
 
